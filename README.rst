@@ -10,4 +10,4 @@ build::
 
 run::
 
-   $ docker run --rm -v /path/to/directory/:/docs/
+   $ docker run --rm -v /path/to/directory/:/docs/ tokibito/sphinx-texlive:latest
