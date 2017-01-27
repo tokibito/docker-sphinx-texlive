@@ -1,0 +1,7 @@
+Sphinx
+Pillow
+sphinxcontrib-blockdiag
+sphinxcontrib-seqdiag
+sphinxcontrib-actdiag
+sphinxcontrib-nwdiag
+reportlab
